@@ -1,0 +1,9 @@
+{
+	"name": "zanomprodadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "497a68fe-c8d8-4f8b-ace4-799a49fcb146",
+		"tenantId": "66727fda-5135-4b9b-adfa-8444cf6d958f"
+	}
+}
